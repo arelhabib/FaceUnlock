@@ -1,0 +1,7 @@
+id=FaceUnlock
+name=Google Face Unlock
+version=v1.0
+versionCode=1
+author=DennySPb, Mi 5 Arsenal, Rl.Shukhov
+description=Standalone Google Face unlock for Android 8.1
+minMagisk=1500
