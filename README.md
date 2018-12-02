@@ -1,9 +1,8 @@
-# Google Face Unlock
-Standalone Google Face unlock for Android 8.1 
+# Google Face Unlock for 32 bit devices
+Standalone Google Face unlock for Android ≥7.1 32bit 
 
 # Changelog
-<br>v1.1 Fix misspelling
-<br>v1.0 Initial commit
+<br>v1.0 Initial commit & forked to work on 32 bit devices
 
 # Credits
 - DennySPb for FaceUnlock flashable zip
